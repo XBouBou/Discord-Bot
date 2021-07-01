@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Make reaction roles",
+  "DESCRIPTION": "Delete reaction roles",
   "USAGE": "reactionroles <messagelink>",
   "INVALID": "Invalid message link",
   "SUCCESS": "Successfully deleted reaction role"
